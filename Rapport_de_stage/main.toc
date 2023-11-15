@@ -1,0 +1,35 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Introduction}{5}{chapter*.4}%
+\contentsline {section}{\numberline {0.1}Contexte}{5}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Objectifs du stage}{5}{section.0.2}%
+\contentsline {chapter}{\numberline {1}Notions de neurophysiologie}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}De l'activité neuronale aux signaux neurophysiologiques}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}La technique d’enregistrement MEG}{10}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Description du dataset (MOUS)}{14}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Pré-traitement des signaux MEG}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Protocole de pré-traitement}{18}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Séries temporelles et filtre passe-haut}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Spectre et filtre coupe-bande}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Segmentation temporelle du signal}{20}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Analyse dans le cadre de théorie de l'information}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Représentation symbolique d'un système dynamique}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Théorie}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Pratique}{25}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Entropie}{28}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Processus stochastique et taux d'entropie}{30}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Estimateur de Lempel-Ziv}{31}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Développement et code Python}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Scikits-symbolic}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Structure et classes}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Fonctions}{35}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Tests sur le scikits et documentation associée}{35}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Résultats}{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Tests d'indépendance statistique}{38}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Interprétation des résultats}{38}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Target word vs individual word}{39}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Phrases simples vs listes aléatoires de mots issues de phrases simples}{39}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Tâche visuelle vs tâche auditive}{40}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Récapitulatif des résultats des tests statistiques}{41}{subsection.6.2.4}%
+\contentsline {chapter}{Conclusion}{42}{chapter*.5}%
+\contentsline {chapter}{Bibliographie}{44}{chapter*.6}%
+\contentsline {chapter}{Appendices}{46}{section*.7}%

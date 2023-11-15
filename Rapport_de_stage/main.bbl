@@ -1,0 +1,125 @@
+\begin{thebibliography}{10}
+
+\bibitem{20}
+Christofer~M. Bishop.
+\newblock {\em Pattern Recognition and Machine Learning}.
+\newblock Springer, 2006.
+
+\bibitem{8}
+Jean-Luc Blanc.
+\newblock {\em Transmission de l'information et complexité des activités de
+  populations neuronales}.
+\newblock PhD thesis, Laboratoire de Neurosciences Intégrative et adaptative,
+  2012.
+
+\bibitem{22}
+Paul~Landais Bruno~Riou.
+\newblock Principes des tests d'hypothèse en statistique: alpha, beta et p.
+\newblock {\em Annales Françaises d'Anesthésie et de Réanimation}, 17, 1998.
+
+\bibitem{9}
+F.H.~Lopes da~Silva, A.~van Rotterdam, P.~Barts, E.~van Heusden, and W.~Burr.
+\newblock Models of neuronal populations: The basic mechanisms of rhythmicity.
+\newblock {\em Progress in Brain Research}, 2005.
+
+\bibitem{5}
+Anne-Sophie Dubarry.
+\newblock {\em Linking neurophysiological data to cognitive functions:
+  methodological developments and applications}.
+\newblock PhD thesis, Laboratoire de Psychologie Cognitive, UMR7290, 2016.
+
+\bibitem{17}
+Alexandre Gramfort, Martin Luessi, Eric Larson, Denis~A. Engemann, Daniel
+  Strohmeier, Christian Brodbeck, Roman Goj, Mainak Jas, Teon Brooks, Lauri
+  Parkkonen, and Matti~S. H{\"a}m{\"a}l{\"a}inen.
+\newblock {{MEG}} and {{EEG}} data analysis with {{MNE}}-{{Python}}.
+\newblock {\em Frontiers in Neuroscience}, 7(267):1--13, 2013.
+
+\bibitem{6}
+Peter~C. Hansen, Morten~L. Kringelbach, and Riitta Salmelin.
+\newblock {\em MEG : An introduction to methods}.
+\newblock Oxford, 2010.
+
+\bibitem{3}
+Yoshito Hirata and José~María Amigó.
+\newblock A review of symbolic dynamics and symbolic reconstruction of
+  dynamical systems.
+\newblock {\em Chaos}, 2023.
+
+\bibitem{11}
+Matti Hämäläinen, Riitta Hari, Risto~J. Ilmoniemi, Jukka Knuutila, and
+  Olli~V. Lounasmaa.
+\newblock Magnetoencephalography—theory, instrumentation, and applications to
+  noninvasive studies of the working human brain.
+\newblock {\em Reviews of Modern Physics}, 1993.
+
+\bibitem{10}
+Alan Jasanoff.
+\newblock Bloodless fmri.
+\newblock {\em Trends in Neurosciences}, 2007.
+
+\bibitem{18}
+Andreï KOLMOGOROV.
+\newblock {\em Théorie générale des systèmes dynamiques de la mécanique
+  classique}, volume~1.
+\newblock Séminaire Janet. Mécanique analytique et mécanique céleste, 1958.
+
+\bibitem{15}
+Abraham Lempel and Jacob Ziv.
+\newblock Transactions on information theory.
+\newblock {\em IEEE}, 22, 1976.
+
+\bibitem{16}
+Abraham Lempel and Jacob Ziv.
+\newblock Transactions on information theory.
+\newblock {\em IEEE}, 24, 1978.
+
+\bibitem{1}
+Annick Lesne, Jean-Luc Blanc, and Laurent Pezard.
+\newblock Entropy estimation of very short symbolic sequences.
+\newblock {\em Physical Review}, E 79, 046208:1--5, 2009.
+
+\bibitem{12}
+Byoung-Kyong Min, Matthew~J. Marzelli, and Seung-Schik Yoo.
+\newblock Neuroimaging-based approaches in the brain-computer interface.
+\newblock {\em Trends Biotechnol}, 2010.
+
+\bibitem{13}
+Guiomar Niso, Laurens~R. Krol, Etienne Combrisson, A.~Sophie Dubarry,
+  Madison~A. Elliott, Clément François, Yseult Héjja-Brichard, Sophie~K.
+  Herbst, Karim Jerbi, Vanja Kovic, Katia Lehongre, Steven J.Luck, Manuel
+  Mercier, John C.Mosher, Yuri G.Pavlov, Aina Puce, ANtonio Schettino, Daniele
+  Schön, Walter Sinnott-Armstrong, Bertille Somon, and Maximilien Chaumon.
+\newblock Good scientific practice in eeg and meg research: Progress and
+  perspectives.
+\newblock {\em NeuroImage}, 2022.
+
+\bibitem{4}
+Jan-Mathijs Schoffelen, Robert Oostenveld, Nietzsche H.L.Lam, Julia Uddén,
+  Annika Hultén, and Peter Hagoort.
+\newblock A 204-subject multimodal neuroimaging dataset to study language
+  processing.
+\newblock {\em Scientific data}, 2019.
+
+\bibitem{19}
+Gideon~E. Schwarz.
+\newblock {\em L'estimation de la dimension d'un modèle}, volume~6.
+\newblock Annals of Statistics, 1978.
+
+\bibitem{21}
+Claude~E. Shannon.
+\newblock A mathematical theory of communication.
+\newblock {\em The Bell System Technical Journal}, 27, 1948.
+
+\bibitem{2}
+Joy~A. Thomas and Thomas~M. Cover.
+\newblock {\em Elements of Information theory}.
+\newblock Wiley Interscience, 1991.
+
+\bibitem{7}
+Thomas Dupré~La Tour, Thomas Moreau, Mainak Jas, and Alexandre Gramfort.
+\newblock Multivariate convolutional sparse coding for electromagnetic brain
+  signals.
+\newblock {\em arXiv}, 2018.
+
+\end{thebibliography}
