@@ -1,0 +1,18 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Notions de neurophysiologie}{6}{0}{1}
+\beamer@subsectionintoc {1}{1}{De l'activité neuronale aux signaux neurophysiologiques}{7}{0}{1}
+\beamer@subsectionintoc {1}{2}{La technique d’enregistrement MEG}{9}{0}{1}
+\beamer@sectionintoc {2}{Description du dataset}{12}{0}{2}
+\beamer@sectionintoc {3}{Pré-traitement des signaux MEG}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Séries temporelles et filtre passe-haut}{20}{0}{3}
+\beamer@subsectionintoc {3}{2}{Spectre et filtre coupe-bande}{22}{0}{3}
+\beamer@subsectionintoc {3}{3}{Segmentation temporelle du signal}{24}{0}{3}
+\beamer@sectionintoc {4}{Analyse dans le cadre de théorie de l'information}{26}{0}{4}
+\beamer@subsectionintoc {4}{1}{Représentation symbolique d'un système dynamique}{28}{0}{4}
+\beamer@subsectionintoc {4}{2}{Entropie}{37}{0}{4}
+\beamer@subsectionintoc {4}{3}{Taux d'entropie et estimation}{40}{0}{4}
+\beamer@sectionintoc {5}{Développement et code Python}{46}{0}{5}
+\beamer@sectionintoc {6}{Résultats et tests statistiques}{50}{0}{6}
+\beamer@subsectionintoc {6}{1}{Target word vs individual word}{52}{0}{6}
+\beamer@subsectionintoc {6}{2}{Phrases simples vs listes aléatoires de mots issues de phrases simples}{54}{0}{6}
+\beamer@subsectionintoc {6}{3}{Tâche visuelle vs tâche auditive}{56}{0}{6}
